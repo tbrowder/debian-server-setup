@@ -4,10 +4,8 @@ installed by follow the instructions found at
 then go to the bottom of the section entitled 'Binary Releases'
 and click on the link 'Rakudo-Pkg package repositories'.
 That should take you to
-(rakudo-pkg)
-[https://nxadm.github.io/rakudo-pkg]
-
-
+[rakudo-pkg]
+(https://nxadm.github.io/rakudo-pkg)
 
 I pay attention to the following points to ensure a successful
 installation:
