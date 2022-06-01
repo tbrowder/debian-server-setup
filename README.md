@@ -51,7 +51,7 @@ to have to modify that in the process of upgrading to a new Debian version.
 After the system is locked down, and I have all my personlization
 working okay, I then install Raku and its cast of supporting modules
 for use by the root user as well as regular users. That process
-is detailed in the (Raku)[./Raku] subdirectory.
+is detailed in the [Raku](./Raku) subdirectory.
 
 If the new host it is to be a web server (the usual
 case), I then install the latest Apache httpd server. That process
