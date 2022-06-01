@@ -57,5 +57,5 @@ If the new host it is to be a web server (the usual
 case), I then install the latest Apache httpd server. That process
 is described in cookbook fashion, with Bash scripts, in
 my public repository at 
-[https://github.com/tbrowder/config-scripts/Apache](https://github.com/tbrowder/config-scripts/Apache).
+[https://github.com/tbrowder/config-scripts/Apache](https://github.com/tbrowder/config-scripts/tree/master/Apache).
 
