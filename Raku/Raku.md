@@ -1,6 +1,7 @@
 To install Raku, I use the 'rakudo-pkg' third party Debian package
 installed by follow the instructions found at
-(Rakudo.org)[https://rakudo.org/downloads/Linux#Rakudo-Pkg package repositories]
+(Rakudo.org)[https://rakudo.org/downloads/]
+
 
 I pay attention to the following points to ensure a successful
 installation:
