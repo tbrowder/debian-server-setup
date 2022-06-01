@@ -19,7 +19,7 @@ the information on firewalls.
 
 Following are the steps I take for setting up a new host to my liking:
 
-+ Before starting
+## Before starting
 
 Over the years I have kept my user and sysadmin profiles and customization under version
 control: first on the early tools like rcs, then on CVS, Subversion, Mercurial, and Bazaar. I stayed too long
@@ -31,7 +31,7 @@ It took me too long to move from Csh to Bash, but all my Bash .bash_aliases, .ba
 dot files are under version control. I also keep individual host setting under version
 control.
 
-+ The new host
+## The new host
 
 It will get a name and an IP address. I keep all my host names, aliases, and IP
 address in each host's /etc/hosts file.
@@ -51,9 +51,9 @@ to have to modify that in the process of upgrading to a new Debian version.
 After the system is locked down, and I have all my personlization
 working okay, I then install Raku and its cast of supporting modules
 for use by the root user as well as regular users. That process
-is detailed in the [Raku](./Raku) subdirectory.
+is detailed in my [Raku](./Raku.md) document.
 
-If the new host it is to be a web server (the usual
+If the new host is to be a web server (the usual
 case), I then install the latest Apache httpd server. That process
 is described in cookbook fashion, with Bash scripts, in
 my public repository at 
