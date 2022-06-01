@@ -1,5 +1,5 @@
 To install Raku, I use the 'rakudo-pkg' third party Debian package
-installed by follow the instructions found at
+installed by following the instructions found at
 [Rakudo.org](https://rakudo.org/downloads/). Click on the 'Linux' tab,
 then go to the bottom of the section entitled 'Binary Releases'
 and click on the link 'Rakudo-Pkg package repositories'.
@@ -15,5 +15,6 @@ installation:
     #
 
 + Use the 'copy' button to copy the default curl script and execute
-  it in terminal window you used in the previous step.
+  it in the terminal window you used in the previous step.
+
 
